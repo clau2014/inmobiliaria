@@ -2,7 +2,7 @@ const propiedades_alquiler = [
     {
       id: "1",
       nombre: "Casa en Irlanda",
-      src: "./assets/img/casairlanda.jpeg",
+      src: "./assets/img/casairlanda.jpg",
       descripcion:
         "Casa en medio de los parajes de Irlanda.",
       ubicacion: "Bosque Irlandes",
@@ -14,7 +14,7 @@ const propiedades_alquiler = [
     {
       id: "2",
       nombre: "Apartamento urbano",
-      src: "./assets/img/casafrancia.jpeg",
+      src: "./assets/img/casafrancia.jpg",
       descripcion:
         "Casa a las afuera de Paris.",
       ubicacion: "Rui de Rivoli, 1023",
@@ -26,7 +26,7 @@ const propiedades_alquiler = [
     {
       id: "3",
       nombre: "Casa en Inglaterra",
-      src: "./assets/img/casainglaterra.jpeg",
+      src: "./assets/img/casainglaterra.jpg",
       descripcion:
         "Casa en Inglaterra.",
       ubicacion: "united kingdom, 432",
@@ -38,7 +38,7 @@ const propiedades_alquiler = [
     {
       id: "4",
       nombre: "Casa en Londres",
-      src: "./assets/img/casalondres.jpeg",
+      src: "./assets/img/casalondres.jpg",
       descripcion: "Excelente ubicacion, casa maravillosa.",
       ubicacion: "Piccadilly 654",
       habitaciones: 5,
@@ -49,7 +49,7 @@ const propiedades_alquiler = [
     {
       id: "5",
       nombre: "Casa Los Angeles, California",
-      src: "./assets/img/casalosangeles.jpeg",
+      src: "./assets/img/casalosangeles.jpg",
       descripcion:
         "Casa de ensueño en la Ciudad de los Angeles, sector exclusivo.",
       ubicacion: "Olvera street,765",
@@ -61,7 +61,7 @@ const propiedades_alquiler = [
     {
       id: "6",
       nombre: "casa en Miami",
-      src: "./assets/img/casamiami.jpeg",
+      src: "./assets/img/casamiami.jpg",
       descripcion: "Sector mas exclusivo de Miami.",
       ubicacion: "Flagler Street, 637",
       habitaciones: 1,
@@ -75,7 +75,7 @@ const propiedades_alquiler = [
     {
       id: "7",
       nombre: "Casa Residencial",
-      src: "./assets/img/casapiscina.jpeg",
+      src: "./assets/img/casapiscina.jpg",
       descripcion:
         "Impresionante Casa con vista al mar.",
       ubicacion: "Con Con, 693",
@@ -87,7 +87,7 @@ const propiedades_alquiler = [
     {
       id: "8",
       nombre: "Casa en Vitacura",
-      src: "./assets/img/casavitacura.jpeg",
+      src: "./assets/img/casavitacura.jpg",
       descripcion: "Casa residencial con las mejores ubicaciones del sector.",
       ubicacion: "El Arrayan, 834",
       habitaciones: 8,
@@ -98,7 +98,7 @@ const propiedades_alquiler = [
     {
       id: "9",
       nombre: "Casa Panoramica",
-      src: "./assets/img/casapiscina2.webp",
+      src: "./assets/img/casapiscina2.jpg",
       descripcion: "Casa con vista panoramica a la ciudad.",
       ubicacion: "Washington, DC",
       habitaciones: 8,
@@ -109,7 +109,7 @@ const propiedades_alquiler = [
     {
       id: "10",
       nombre: "Casa Washingthon",
-      src: "./assets/img/casawhashington.jpeg",
+      src: "./assets/img/casawhashington.jpg",
       descripcion:
         "Atrevete a vivir en lugares unicos.",
       ubicacion: "Whashingthon, DC",
@@ -121,7 +121,7 @@ const propiedades_alquiler = [
     {
       id: "11",
       nombre: "Casa en Italia",
-      src: "./assets/img/casaitalia.jpeg",
+      src: "./assets/img/casaitalia.jpg",
       descripcion:
         "Disfruta de la privacidad absoluta en una isla privada con una villa de lujo.",
       ubicacion: "via Bufallini 745",
@@ -133,7 +133,7 @@ const propiedades_alquiler = [
     {
       id: "12",
       nombre: "Casa en la Patagonia",
-      src: "./assets/img/casapatagonia.jpeg",
+      src: "./assets/img/casapatagonia.jpg",
       descripcion:
         "Introducete en los parajes de la Patagonia.",
       ubicacion: "Cabo de Hornos",
